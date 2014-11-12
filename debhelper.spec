@@ -3,7 +3,7 @@ Version: 9.20120909
 Summary: debhelper
 
 Group: devel
-License: 
+License: gpl
 BuildRequires: po4a
 Source0: debhelper.tar.gz
 
